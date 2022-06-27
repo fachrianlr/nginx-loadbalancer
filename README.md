@@ -8,4 +8,4 @@ configure upstream for endpoint rest api
 run all python api
 
 
-call in terminal curl http://localhost:81/hello/
+call curl in terminal  http://localhost:81/hello/
